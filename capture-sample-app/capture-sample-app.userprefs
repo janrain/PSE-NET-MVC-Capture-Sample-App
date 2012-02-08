@@ -1,0 +1,56 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="capture-sample-app/App_GlobalResources/OauthService.cs">
+    <Files>
+      <File FileName="capture-sample-app/Views/Home/Index.aspx" Line="45" Column="38" />
+      <File FileName="capture-sample-app/Controllers/OauthController.cs" Line="1" Column="1" />
+      <File FileName="capture-sample-app/App_GlobalResources/JanrainConfiguration.cs" Line="1" Column="1" />
+      <File FileName="capture-sample-app/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="capture-sample-app/App_GlobalResources/OauthService.cs" Line="50" Column="2" />
+      <File FileName="capture-sample-app/Partials/navigation.aspx" Line="1" Column="1" />
+      <File FileName="capture-sample-app/Helpers/JanrainHelper.cs" Line="1" Column="1" />
+      <File FileName="capture-sample-app/Views/Oauth/OauthRedirect.aspx" Line="1" Column="1" />
+      <File FileName="capture-sample-app/Web.config" Line="1" Column="1" />
+      <File FileName="capture-sample-app/Partials/capture_js.aspx" Line="1" Column="1" />
+      <File FileName="capture-sample-app/Views/Home/Home.aspx" Line="7" Column="1" />
+      <File FileName="capture-sample-app/Partials/home.html" Line="2" Column="1" />
+      <File FileName="capture-sample-app/Partials/home.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="capture-sample-app" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="App_GlobalResources" expanded="True">
+              <Node name="OauthService.cs" selected="True" />
+            </Node>
+            <Node name="Content" expanded="True" />
+            <Node name="Controllers" expanded="True" />
+            <Node name="Helpers" expanded="True" />
+            <Node name="Partials" expanded="True" />
+            <Node name="Views" expanded="True">
+              <Node name="Home" expanded="True" />
+              <Node name="Oauth" expanded="True" />
+            </Node>
+            <Node name="Global.asax" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>url</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dan/Documents/code/pse-projects/capture-sample-apps/dotnet-mvc/capture-sample-app/capture-sample-app/App_GlobalResources/OauthService.cs" line="136" />
+      <Breakpoint file="/Users/dan/Documents/code/pse-projects/capture-sample-apps/dotnet-mvc/capture-sample-app/capture-sample-app/App_GlobalResources/OauthService.cs" line="128" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
